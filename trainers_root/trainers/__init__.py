@@ -1,0 +1,1 @@
+from trainers.wgan_trainer import WganTrainer, WganParams

@@ -1,0 +1,7 @@
+setup.py
+trainers/__init__.py
+trainers/wgan_trainer.py
+trainers.egg-info/PKG-INFO
+trainers.egg-info/SOURCES.txt
+trainers.egg-info/dependency_links.txt
+trainers.egg-info/top_level.txt
